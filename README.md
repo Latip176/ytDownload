@@ -1,12 +1,11 @@
 # Informasi
 Ini adalah script download video lewat terminal
 # Fitur
-• Bisa liat judul videonya
+• Bisa liat judul videonya<br>
 • Bisa download videonya
 # Install Get
 ```PHP
 $pkg install python3
-$pip3 install pytube
 $pkg install git
 ```
 # Run Tutorial
